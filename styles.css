@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+#example{
+	border:solid;
+	width:500px;
+	height:200px;
+	text-align:center;
+}
